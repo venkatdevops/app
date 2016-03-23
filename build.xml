@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project name="test" default="run" basedir=".">
+
+      
+   <target name="create">
+      <mkdir dir="bin"/>
+   </target>
+   
+</project>
+
